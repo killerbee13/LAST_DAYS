@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/warped_planks/warped_planks", "weight": 1 },
+			{ "model": "block/warped_planks/warped_planks_mirrored", "weight": 1 },   
+			{ "model": "block/warped_planks/warped_planks2", "weight": 1 },   
+			{ "model": "block/warped_planks/warped_planks2_mirrored", "weight": 1 },
+			{ "model": "block/warped_planks/warped_planks3", "weight": 1 },
+			{ "model": "block/warped_planks/warped_planks3_mirrored", "weight": 1 },  			
+			{ "model": "block/warped_planks/warped_planks4", "weight": 1 }
+			{ "model": "block/warped_planks/warped_planks4_mirrored", "weight": 1 },  			
+		]
+	}
+}
