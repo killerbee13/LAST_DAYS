@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+    "top": "minecraft:block/birch_leaves/birch_leaves1",
+    "bottom": "minecraft:block/birch_leaves/birch_leaves1",
+    "side": "minecraft:block/birch_leaves/birch_leaves3"
+    }
+}
