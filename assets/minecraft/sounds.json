@@ -1,0 +1,73 @@
+{
+    "entity.zombified_piglin.ambient": {
+        "sounds": [
+            {
+                "name": "mob/zombified_piglin/zpig1",
+                "weight": 1
+            },
+            {
+                "name": "mob/zombified_piglin/zpig2",
+                "weight": 1
+            },
+            {
+                "name": "mob/zombified_piglin/zpig3",
+                "weight": 1
+            },
+            {
+                "name": "mob/zombified_piglin/zpig4",
+                "weight": 1
+            },
+            {
+                "name": "mob/zombified_piglin/zpigsilent",
+                "weight": 10
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.zombified_piglin.ambient"
+    },
+    "entity.piglin_brute.ambient": {
+		"sounds": [
+			{
+				"name": "mob/piglin_brute/idle1",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/idle2",
+				"weight": 1
+			},	
+			{
+				"name": "mob/piglin_brute/idle3",
+				"weight": 1
+			},			
+			{
+				"name": "mob/piglin_brute/idle4",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/idle5",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/idle6",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/idle7",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/idle8",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/idle9",
+				"weight": 1
+			},
+			{
+				"name": "mob/piglin_brute/silent",
+				"weight": 1000
+			}
+			]
+	}	
+    
+}
