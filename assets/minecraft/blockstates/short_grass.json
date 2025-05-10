@@ -1,5 +1,12 @@
 {
     "variants": {
-        "": [ { "model": "block/short_grass/short_grass1", "weight": 25 }, { "model": "block/short_grass/short_grass2", "weight": 3 } ]
+        "": [ 
+				{ "model": "block/short_grass/short_grass1", "weight": 25 }, 		
+				{ "model": "block/short_grass/short_grass2", "weight": 1 },
+				{ "model": "block/short_grass/short_grass3", "weight": 15 },
+				{ "model": "block/short_grass/short_grass4", "weight": 15 },
+				{ "model": "block/short_grass/short_grass5", "weight": 2 },
+				{ "model": "block/short_grass/short_grass6", "weight": 2 }
+			]
     }
 }
