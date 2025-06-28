@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/prismarine", "weight": 2 },
+			{ "model": "block/prismarine/prismarine2", "weight": 5 },   
+			{ "model": "block/prismarine/prismarine3", "weight": 2 },
+			{ "model": "block/prismarine/prismarine4", "weight": 2 },
+			{ "model": "block/prismarine/prismarine5", "weight": 2 }
+		]
+	}
+}
